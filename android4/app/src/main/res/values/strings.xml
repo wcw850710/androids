@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">android4</string>
+  <string name="hint_contact_name">Contact Name</string>
 </resources>
