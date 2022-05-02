@@ -1,10 +1,7 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 apply from: '../dependencies.gradle'
 
 android {
-  defaultConfig {
-    applicationId "com.cainiao5.app"
-  }
   //from dependencies.gradle
 }
 
